@@ -1,4 +1,4 @@
-# Vue-Platform-MDCS
+# Vue-Platform
 木门前端vue项目
 
 ### 安装
